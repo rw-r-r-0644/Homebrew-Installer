@@ -14,7 +14,6 @@
 
 typedef struct _private_data_t
 {
-	char urls[6][]={"
 	unsigned char *file;
 	unsigned int file_size;
 	int buf0_size, buf1_size;
